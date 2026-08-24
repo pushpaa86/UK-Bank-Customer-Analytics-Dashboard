@@ -253,7 +253,7 @@ The final dashboard provides an easy-to-understand view of customer behaviour an
 
 # 👤 Author
 
-**Pushpa**
+**Pushpanjali Mamidakula**
 
 Aspiring Data Analyst with an interest in:
 
